@@ -1,6 +1,6 @@
 ---
 name: benchmarx
-description: Infrastructure for implementing benchmarx: benchmarks for bidirectional transformation (bx) tools.   Also contains a collection of example benchmarx and test runners for various and diverse bx tools.
+description: Infrastructure for implementing benchmarx benchmarks for bidirectional transformation (bx) tools.   Also contains a collection of example benchmarx and test runners for various and diverse bx tools.
 ---
 This is the README for the [benchmarx repository](https://github.com/eMoflon/benchmarx/blob/main/README.md).
 
